@@ -1,0 +1,12 @@
+npm i graphql express-graphql express axios 
+npm i -D nodemon
+
+npm i concurrently
+npm i cors
+
+w /client
+npm i apollo-boost react-apollo graphql
+npm i classnames moment react-moment
+npm i react-router-dom
+
+clasnames do dynamicznego przydzielania klas np w zaleznosci od wartosci zmiennej
